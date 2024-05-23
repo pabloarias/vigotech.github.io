@@ -257,18 +257,6 @@
         }
       ]
     },
-    "wppontevedra": {
-      "name": "WordpressPontevedra",
-      "logo": "https://vigotech.org/images/wordpress-pontevedra.png",
-      "links": {
-        "meetup": "https://www.meetup.com/es-ES/Pontevedra-WordPress-Meetup/",
-        "twitter": "https://twitter.com/wppontevedra"
-      },
-      "events": {
-        "type": "meetup",
-        "meetupid": "Pontevedra-WordPress-Meetup"
-      }
-    },
     "vigowordpress": {
       "name": "VigoWordpress",
       "logo": "https://vigotech.org/images/vigowordpress.png",
